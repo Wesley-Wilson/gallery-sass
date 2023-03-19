@@ -3,7 +3,7 @@
   <img src="./assets/img/galleryPrint.svg">
 </div>
 
-<h2 align="center"><a href="https://wesley-wilson.github.io/semaphore/" target="_blank">project</a></h2>
+<h2 align="center"><a href="https://wesley-wilson.github.io/gallery-sass/" target="_blank">project</a></h2>
 
 <br>
 
